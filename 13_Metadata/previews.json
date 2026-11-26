@@ -1,0 +1,1022 @@
+{
+ "packs": {
+  "QT-UACP": [
+   {
+    "file": "12_Visual_Catalog/official_previews/QT-UACP.jpg",
+    "source": "10_Source_Archives/quaternius/animated-characters-pack/preview_1012.png",
+    "kind": "official preview"
+   }
+  ],
+  "QT-POSED": [
+   {
+    "file": "12_Visual_Catalog/official_previews/QT-POSED.jpg",
+    "source": "10_Source_Archives/quaternius/lowpoly-posed-humans/backgroundcharacters.jpg",
+    "kind": "official preview"
+   }
+  ],
+  "QT-AHUMAN": [
+   {
+    "file": "12_Visual_Catalog/official_previews/QT-AHUMAN.jpg",
+    "source": "10_Source_Archives/quaternius/animated-human-low-poly/WalkingAnimations_0.gif",
+    "kind": "official preview"
+   }
+  ],
+  "QT-RPGCHAR": [
+   {
+    "file": "12_Visual_Catalog/official_previews/QT-RPGCHAR.jpg",
+    "source": "10_Source_Archives/quaternius/lowpoly-rpg-characters/preview_278.jpg",
+    "kind": "official preview"
+   }
+  ],
+  "QT-UAL1": [
+   {
+    "file": "12_Visual_Catalog/official_previews/QT-UAL1.jpg",
+    "source": "10_Source_Archives/quaternius/universal-animation-library/preview_1323.png",
+    "kind": "official preview"
+   }
+  ],
+  "QT-UAL2": [
+   {
+    "file": "12_Visual_Catalog/official_previews/QT-UAL2.jpg",
+    "source": "10_Source_Archives/quaternius/universal-animation-library-2/ual2.png",
+    "kind": "official preview"
+   }
+  ],
+  "QT-MONST": [
+   {
+    "file": "12_Visual_Catalog/official_previews/QT-MONST.jpg",
+    "source": "10_Source_Archives/quaternius/lowpoly-animated-monsters/Monsterpackgif.gif",
+    "kind": "official preview"
+   }
+  ],
+  "QT-CUTEMON": [
+   {
+    "file": "12_Visual_Catalog/official_previews/QT-CUTEMON.jpg",
+    "source": "10_Source_Archives/quaternius/textured-cute-monster-pack/preview_276.jpg",
+    "kind": "official preview"
+   }
+  ],
+  "QT-ANIM1": [
+   {
+    "file": "12_Visual_Catalog/official_previews/QT-ANIM1.jpg",
+    "source": "10_Source_Archives/quaternius/5-low-poly-animals/FINALRENDER.gif",
+    "kind": "official preview"
+   }
+  ],
+  "QT-ANIM2": [
+   {
+    "file": "12_Visual_Catalog/official_previews/QT-ANIM2.jpg",
+    "source": "10_Source_Archives/quaternius/animated-animales-low-poly/Preview_201.png",
+    "kind": "official preview"
+   }
+  ],
+  "QT-FARMANI": [
+   {
+    "file": "12_Visual_Catalog/official_previews/QT-FARMANI.jpg",
+    "source": "10_Source_Archives/quaternius/lowpoly-animated-farm-animal-pack/Farmpack.gif",
+    "kind": "official preview"
+   }
+  ],
+  "QT-FISH": [
+   {
+    "file": "12_Visual_Catalog/official_previews/QT-FISH.jpg",
+    "source": "10_Source_Archives/quaternius/animated-fish/Fish PACK.png",
+    "kind": "official preview"
+   }
+  ],
+  "QT-FPROPS": [
+   {
+    "file": "12_Visual_Catalog/official_previews/QT-FPROPS.jpg",
+    "source": "10_Source_Archives/quaternius/fantasy-props-megakit/preview_fantasyprops.jpg",
+    "kind": "official preview"
+   }
+  ],
+  "QT-FURN1": [
+   {
+    "file": "12_Visual_Catalog/official_previews/QT-FURN1.jpg",
+    "source": "10_Source_Archives/quaternius/furniture-low-poly/Furniturepack2.jpg",
+    "kind": "official preview"
+   }
+  ],
+  "QT-FURN2": [
+   {
+    "file": "12_Visual_Catalog/official_previews/QT-FURN2.jpg",
+    "source": "10_Source_Archives/quaternius/low-poly-furniture-1/Furniture render.png",
+    "kind": "official preview"
+   }
+  ],
+  "QT-CARS1": [
+   {
+    "file": "12_Visual_Catalog/official_previews/QT-CARS1.jpg",
+    "source": "10_Source_Archives/quaternius/low-poly-cars-0/JvgEzQ9.png",
+    "kind": "official preview"
+   }
+  ],
+  "QT-CARS2": [
+   {
+    "file": "12_Visual_Catalog/official_previews/QT-CARS2.jpg",
+    "source": "10_Source_Archives/quaternius/lowpoly-cars/carsvol2.jpg",
+    "kind": "official preview"
+   }
+  ],
+  "QT-TRANSIT": [
+   {
+    "file": "12_Visual_Catalog/official_previews/QT-TRANSIT.jpg",
+    "source": "10_Source_Archives/quaternius/lowpoly-public-transport/publictransport_0.jpg",
+    "kind": "official preview"
+   }
+  ],
+  "QT-SHIPS": [
+   {
+    "file": "12_Visual_Catalog/official_previews/QT-SHIPS.jpg",
+    "source": "10_Source_Archives/quaternius/lowpoly-ship-pack/Preview_218.png",
+    "kind": "official preview"
+   }
+  ],
+  "QT-FOOD": [
+   {
+    "file": "12_Visual_Catalog/official_previews/QT-FOOD.jpg",
+    "source": "10_Source_Archives/quaternius/low-poly-food-pack/preview_1011.png",
+    "kind": "official preview"
+   }
+  ],
+  "QT-NATURE": [
+   {
+    "file": "12_Visual_Catalog/official_previews/QT-NATURE.jpg",
+    "source": "10_Source_Archives/quaternius/low-poly-nature-pack-1/preview_271.jpg",
+    "kind": "official preview"
+   }
+  ],
+  "QT-TREES": [
+   {
+    "file": "12_Visual_Catalog/official_previews/QT-TREES.jpg",
+    "source": "10_Source_Archives/quaternius/lowpoly-textured-trees/preview_274.jpg",
+    "kind": "official preview"
+   }
+  ],
+  "QT-NATMEGA": [
+   {
+    "file": "12_Visual_Catalog/official_previews/QT-NATMEGA.jpg",
+    "source": "10_Source_Archives/quaternius/stylized-nature-megakit/stylizednaturemegakit.jpg",
+    "kind": "official preview"
+   }
+  ],
+  "QT-CROPS": [
+   {
+    "file": "12_Visual_Catalog/official_previews/QT-CROPS.jpg",
+    "source": "10_Source_Archives/quaternius/lowpoly-crops-pack/preview_1014.png",
+    "kind": "official preview"
+   }
+  ],
+  "QT-BLD1": [
+   {
+    "file": "12_Visual_Catalog/official_previews/QT-BLD1.jpg",
+    "source": "10_Source_Archives/quaternius/lowpoly-buildings/buildingspack2_0.jpg",
+    "kind": "official preview"
+   }
+  ],
+  "QT-TEXBLD": [
+   {
+    "file": "12_Visual_Catalog/official_previews/QT-TEXBLD.jpg",
+    "source": "10_Source_Archives/quaternius/lowpoly-buildings-pack/preview_1013.png",
+    "kind": "official preview"
+   }
+  ],
+  "QT-HOUSEINT": [
+   {
+    "file": "12_Visual_Catalog/official_previews/QT-HOUSEINT.jpg",
+    "source": "10_Source_Archives/quaternius/lowpoly-house-interior-pack/preview_275.jpg",
+    "kind": "official preview"
+   }
+  ],
+  "QT-DUNGEON": [
+   {
+    "file": "12_Visual_Catalog/official_previews/QT-DUNGEON.jpg",
+    "source": "10_Source_Archives/quaternius/lowpoly-modular-dungeon-pack/DungeonPack.png",
+    "kind": "official preview"
+   }
+  ],
+  "QT-STREET": [
+   {
+    "file": "12_Visual_Catalog/official_previews/QT-STREET.jpg",
+    "source": "10_Source_Archives/quaternius/lowpoly-modular-street-pack/Preview_217.png",
+    "kind": "official preview"
+   }
+  ],
+  "QT-SURVIVAL": [
+   {
+    "file": "12_Visual_Catalog/official_previews/QT-SURVIVAL.jpg",
+    "source": "10_Source_Archives/quaternius/lowpoly-survival-pack/preview_277.jpg",
+    "kind": "official preview"
+   }
+  ],
+  "QT-MEDVIL": [
+   {
+    "file": "12_Visual_Catalog/official_previews/QT-MEDVIL.jpg",
+    "source": "10_Source_Archives/quaternius/medieval-village-megakit/preview_377.jpg",
+    "kind": "official preview"
+   }
+  ],
+  "QT-SCIFI": [
+   {
+    "file": "12_Visual_Catalog/official_previews/QT-SCIFI.jpg",
+    "source": "10_Source_Archives/quaternius/modular-sci-fi-megakit/preview_3_7.png",
+    "kind": "official preview"
+   }
+  ],
+  "QT-SCIESS": [
+   {
+    "file": "12_Visual_Catalog/official_previews/QT-SCIESS.jpg",
+    "source": "10_Source_Archives/quaternius/sci-fi-essentials-kit/preview_1_5.jpg",
+    "kind": "official preview"
+   }
+  ],
+  "KN-MINICHAR": [
+   {
+    "file": "12_Visual_Catalog/official_previews/KN-MINICHAR.jpg",
+    "source": "10_Source_Archives/kenney/mini-characters/preview_1408.png",
+    "kind": "official preview"
+   }
+  ],
+  "KN-BLOCKY": [
+   {
+    "file": "12_Visual_Catalog/official_previews/KN-BLOCKY.jpg",
+    "source": "10_Source_Archives/kenney/blocky-characters/preview_1335.png",
+    "kind": "official preview"
+   }
+  ],
+  "KN-ANIMCHAR": [
+   {
+    "file": "12_Visual_Catalog/official_previews/KN-ANIMCHAR.jpg",
+    "source": "10_Source_Archives/kenney/animated-characters-1/Preview_305.png",
+    "kind": "official preview"
+   }
+  ],
+  "KN-CUBEPETS": [
+   {
+    "file": "12_Visual_Catalog/official_previews/KN-CUBEPETS.jpg",
+    "source": "10_Source_Archives/kenney/cube-pets/preview_1365.png",
+    "kind": "official preview"
+   }
+  ],
+  "KN-BUILDING": [
+   {
+    "file": "12_Visual_Catalog/official_previews/KN-BUILDING.jpg",
+    "source": "10_Source_Archives/kenney/building-kit/preview_1248.png",
+    "kind": "official preview"
+   },
+   {
+    "file": "12_Visual_Catalog/official_previews/KN-BUILDING_1.jpg",
+    "source": "10_Source_Archives/kenney/building-kit/preview_variation_a_2.png",
+    "kind": "official preview"
+   }
+  ],
+  "KN-CARS": [
+   {
+    "file": "12_Visual_Catalog/official_previews/KN-CARS.jpg",
+    "source": "10_Source_Archives/kenney/car-kit/preview_1375.png",
+    "kind": "official preview"
+   }
+  ],
+  "KN-CITYCOM": [
+   {
+    "file": "12_Visual_Catalog/official_previews/KN-CITYCOM.jpg",
+    "source": "10_Source_Archives/kenney/city-kit-commercial/preview_1327.png",
+    "kind": "official preview"
+   },
+   {
+    "file": "12_Visual_Catalog/official_previews/KN-CITYCOM_1.jpg",
+    "source": "10_Source_Archives/kenney/city-kit-commercial/preview_variation_a_6.png",
+    "kind": "official preview"
+   }
+  ],
+  "KN-CITYIND": [
+   {
+    "file": "12_Visual_Catalog/official_previews/KN-CITYIND.jpg",
+    "source": "10_Source_Archives/kenney/city-kit-industrial/preview_1401.png",
+    "kind": "official preview"
+   }
+  ],
+  "KN-ROADS": [
+   {
+    "file": "12_Visual_Catalog/official_previews/KN-ROADS.jpg",
+    "source": "10_Source_Archives/kenney/city-kit-roads/preview_1399.png",
+    "kind": "official preview"
+   },
+   {
+    "file": "12_Visual_Catalog/official_previews/KN-ROADS_1.jpg",
+    "source": "10_Source_Archives/kenney/city-kit-roads/preview_variation_a_10.png",
+    "kind": "official preview"
+   }
+  ],
+  "KN-SUBURB": [
+   {
+    "file": "12_Visual_Catalog/official_previews/KN-SUBURB.jpg",
+    "source": "10_Source_Archives/kenney/city-kit-suburban/preview_1324.png",
+    "kind": "official preview"
+   },
+   {
+    "file": "12_Visual_Catalog/official_previews/KN-SUBURB_1.jpg",
+    "source": "10_Source_Archives/kenney/city-kit-suburban/preview_variation_a_5.png",
+    "kind": "official preview"
+   }
+  ],
+  "KN-FACTORY": [
+   {
+    "file": "12_Visual_Catalog/official_previews/KN-FACTORY.jpg",
+    "source": "10_Source_Archives/kenney/factory-kit/preview_1382.png",
+    "kind": "official preview"
+   }
+  ],
+  "KN-FOOD": [
+   {
+    "file": "12_Visual_Catalog/official_previews/KN-FOOD.jpg",
+    "source": "10_Source_Archives/kenney/food-kit/preview_1249.png",
+    "kind": "official preview"
+   }
+  ],
+  "KN-FURN": [
+   {
+    "file": "12_Visual_Catalog/official_previews/KN-FURN.jpg",
+    "source": "10_Source_Archives/kenney/furniture-kit/Preview_207.png",
+    "kind": "official preview"
+   }
+  ],
+  "KN-GRAVE": [
+   {
+    "file": "12_Visual_Catalog/official_previews/KN-GRAVE.jpg",
+    "source": "10_Source_Archives/kenney/graveyard-kit/preview_1352.png",
+    "kind": "official preview"
+   }
+  ],
+  "KN-MINIDUN": [
+   {
+    "file": "12_Visual_Catalog/official_previews/KN-MINIDUN.jpg",
+    "source": "10_Source_Archives/kenney/mini-dungeon/preview_1396.png",
+    "kind": "official preview"
+   }
+  ],
+  "KN-MINIFOR": [
+   {
+    "file": "12_Visual_Catalog/official_previews/KN-MINIFOR.jpg",
+    "source": "10_Source_Archives/kenney/mini-forest/preview_1394.png",
+    "kind": "official preview"
+   }
+  ],
+  "KN-MINISHOP": [
+   {
+    "file": "12_Visual_Catalog/official_previews/KN-MINISHOP.jpg",
+    "source": "10_Source_Archives/kenney/mini-shop/preview_1407.png",
+    "kind": "official preview"
+   }
+  ],
+  "KN-MODBLD": [
+   {
+    "file": "12_Visual_Catalog/official_previews/KN-MODBLD.jpg",
+    "source": "10_Source_Archives/kenney/modular-buildings/preview_1238.png",
+    "kind": "official preview"
+   },
+   {
+    "file": "12_Visual_Catalog/official_previews/KN-MODBLD_1.jpg",
+    "source": "10_Source_Archives/kenney/modular-buildings/preview_variation_a_0.png",
+    "kind": "official preview"
+   }
+  ],
+  "KN-CAVE": [
+   {
+    "file": "12_Visual_Catalog/official_previews/KN-CAVE.jpg",
+    "source": "10_Source_Archives/kenney/modular-cave-kit/preview_1393.png",
+    "kind": "official preview"
+   },
+   {
+    "file": "12_Visual_Catalog/official_previews/KN-CAVE_1.jpg",
+    "source": "10_Source_Archives/kenney/modular-cave-kit/preview_variation_a_9.png",
+    "kind": "official preview"
+   }
+  ],
+  "KN-DUNGEON": [
+   {
+    "file": "12_Visual_Catalog/official_previews/KN-DUNGEON.jpg",
+    "source": "10_Source_Archives/kenney/modular-dungeon-kit/preview_1362.png",
+    "kind": "official preview"
+   }
+  ],
+  "KN-NATURE": [
+   {
+    "file": "12_Visual_Catalog/official_previews/KN-NATURE.jpg",
+    "source": "10_Source_Archives/kenney/nature-kit/Preview_320.png",
+    "kind": "official preview"
+   }
+  ],
+  "KN-RETROURB": [
+   {
+    "file": "12_Visual_Catalog/official_previews/KN-RETROURB.jpg",
+    "source": "10_Source_Archives/kenney/retro-urban-kit/preview_1302.png",
+    "kind": "official preview"
+   }
+  ],
+  "KN-SURVIVAL": [
+   {
+    "file": "12_Visual_Catalog/official_previews/KN-SURVIVAL.jpg",
+    "source": "10_Source_Archives/kenney/survival-kit/preview_1236.png",
+    "kind": "official preview"
+   }
+  ],
+  "KN-TRAIN": [
+   {
+    "file": "12_Visual_Catalog/official_previews/KN-TRAIN.jpg",
+    "source": "10_Source_Archives/kenney/train-kit/preview_1266.png",
+    "kind": "official preview"
+   }
+  ],
+  "KN-WATERCRAFT": [
+   {
+    "file": "12_Visual_Catalog/official_previews/KN-WATERCRAFT.jpg",
+    "source": "10_Source_Archives/kenney/watercraft-kit/preview_1239.png",
+    "kind": "official preview"
+   }
+  ],
+  "OGA-APOCBLD": [
+   {
+    "file": "12_Visual_Catalog/official_previews/OGA-APOCBLD.jpg",
+    "source": "10_Source_Archives/community/3d-apocalyptic-building-city-cc0/s-buildings-00.jpg",
+    "kind": "official preview"
+   },
+   {
+    "file": "12_Visual_Catalog/official_previews/OGA-APOCBLD_1.jpg",
+    "source": "10_Source_Archives/community/3d-apocalyptic-building-city-cc0/s-buildings-01.jpg",
+    "kind": "official preview"
+   }
+  ],
+  "OGA-HORRORMON": [
+   {
+    "file": "12_Visual_Catalog/official_previews/OGA-HORRORMON.jpg",
+    "source": "10_Source_Archives/community/3d-horror-game-monster/monster_2.jpg",
+    "kind": "official preview"
+   }
+  ],
+  "OGA-BEAST": [
+   {
+    "file": "12_Visual_Catalog/official_previews/OGA-BEAST.jpg",
+    "source": "10_Source_Archives/community/beast-02/render1_1.png",
+    "kind": "official preview"
+   }
+  ],
+  "OGA-BONEGOLEM": [
+   {
+    "file": "12_Visual_Catalog/official_previews/OGA-BONEGOLEM.jpg",
+    "source": "10_Source_Archives/community/bone-golem/render07.png",
+    "kind": "official preview"
+   },
+   {
+    "file": "12_Visual_Catalog/official_previews/OGA-BONEGOLEM_1.jpg",
+    "source": "10_Source_Archives/community/bone-golem/render_03.png",
+    "kind": "official preview"
+   }
+  ],
+  "OGA-CZOMBIE": [
+   {
+    "file": "12_Visual_Catalog/official_previews/OGA-CZOMBIE.jpg",
+    "source": "10_Source_Archives/community/cartoon-zombie-rigged/untitled2_2.png",
+    "kind": "official preview"
+   },
+   {
+    "file": "12_Visual_Catalog/official_previews/OGA-CZOMBIE_1.jpg",
+    "source": "10_Source_Archives/community/cartoon-zombie-rigged/untitled3.png",
+    "kind": "official preview"
+   }
+  ],
+  "OGA-CEMETERY": [
+   {
+    "file": "12_Visual_Catalog/official_previews/OGA-CEMETERY.jpg",
+    "source": "10_Source_Archives/community/cemetery/grave1.jpg",
+    "kind": "official preview"
+   },
+   {
+    "file": "12_Visual_Catalog/official_previews/OGA-CEMETERY_1.jpg",
+    "source": "10_Source_Archives/community/cemetery/grave2.jpg",
+    "kind": "official preview"
+   }
+  ],
+  "OGA-COFFIN": [
+   {
+    "file": "12_Visual_Catalog/official_previews/OGA-COFFIN.jpg",
+    "source": "10_Source_Archives/community/coffin-0/preview_001_2.png",
+    "kind": "official preview"
+   },
+   {
+    "file": "12_Visual_Catalog/official_previews/OGA-COFFIN_1.jpg",
+    "source": "10_Source_Archives/community/coffin-0/preview_002_2.png",
+    "kind": "official preview"
+   }
+  ],
+  "OGA-DIVEHELM": [
+   {
+    "file": "12_Visual_Catalog/official_previews/OGA-DIVEHELM.jpg",
+    "source": "10_Source_Archives/community/divers-helmet/Bronze.png",
+    "kind": "official preview"
+   },
+   {
+    "file": "12_Visual_Catalog/official_previews/OGA-DIVEHELM_1.jpg",
+    "source": "10_Source_Archives/community/divers-helmet/Chaos.png",
+    "kind": "official preview"
+   }
+  ],
+  "OGA-MOTO": [
+   {
+    "file": "12_Visual_Catalog/official_previews/OGA-MOTO.jpg",
+    "source": "10_Source_Archives/community/fancy-motorcycle/biken.png",
+    "kind": "official preview"
+   }
+  ],
+  "OGA-FIRSTAID": [
+   {
+    "file": "12_Visual_Catalog/official_previews/OGA-FIRSTAID.jpg",
+    "source": "10_Source_Archives/community/first-aid-kit-3d/first_aid_kit_3d_1.png",
+    "kind": "official preview"
+   },
+   {
+    "file": "12_Visual_Catalog/official_previews/OGA-FIRSTAID_1.jpg",
+    "source": "10_Source_Archives/community/first-aid-kit-3d/first_aid_kit_3d_2.png",
+    "kind": "official preview"
+   }
+  ],
+  "OGA-FISHBOAT": [
+   {
+    "file": "12_Visual_Catalog/official_previews/OGA-FISHBOAT.jpg",
+    "source": "10_Source_Archives/community/fishing-boat-low-poly/boatStand.jpg",
+    "kind": "official preview"
+   },
+   {
+    "file": "12_Visual_Catalog/official_previews/OGA-FISHBOAT_1.jpg",
+    "source": "10_Source_Archives/community/fishing-boat-low-poly/myBoat.png",
+    "kind": "official preview"
+   }
+  ],
+  "OGA-VEHICLES": [
+   {
+    "file": "12_Visual_Catalog/official_previews/OGA-VEHICLES.jpg",
+    "source": "10_Source_Archives/community/free-low-poly-vehicles-pack/low_poly_cars_pack_render_1.png",
+    "kind": "official preview"
+   },
+   {
+    "file": "12_Visual_Catalog/official_previews/OGA-VEHICLES_1.jpg",
+    "source": "10_Source_Archives/community/free-low-poly-vehicles-pack/low_poly_cars_pack_render_2.png",
+    "kind": "official preview"
+   }
+  ],
+  "OGA-NECROPOLY": [
+   {
+    "file": "12_Visual_Catalog/official_previews/OGA-NECROPOLY.jpg",
+    "source": "10_Source_Archives/community/free-necropoly-graveyard-halloween-exterior-kit/1950_0.jpg",
+    "kind": "official preview"
+   },
+   {
+    "file": "12_Visual_Catalog/official_previews/OGA-NECROPOLY_1.jpg",
+    "source": "10_Source_Archives/community/free-necropoly-graveyard-halloween-exterior-kit/image_003_0000.jpg",
+    "kind": "official preview"
+   }
+  ],
+  "OGA-GHOSTLADY": [
+   {
+    "file": "12_Visual_Catalog/official_previews/OGA-GHOSTLADY.jpg",
+    "source": "10_Source_Archives/community/ghost-lady-model-untextured/snimok_ekrana_950.png",
+    "kind": "official preview"
+   }
+  ],
+  "OGA-HALLOWPROPS": [
+   {
+    "file": "12_Visual_Catalog/official_previews/OGA-HALLOWPROPS.jpg",
+    "source": "10_Source_Archives/community/halloween-props/godotpreview_2_2.png",
+    "kind": "official preview"
+   },
+   {
+    "file": "12_Visual_Catalog/official_previews/OGA-HALLOWPROPS_1.jpg",
+    "source": "10_Source_Archives/community/halloween-props/godotpreview_3_1.png",
+    "kind": "official preview"
+   }
+  ],
+  "OGA-HORRORMAP": [
+   {
+    "file": "12_Visual_Catalog/official_previews/OGA-HORRORMAP.jpg",
+    "source": "10_Source_Archives/community/horror-sci-fi-3d-map-kit/sci_maps_1.jpg",
+    "kind": "official preview"
+   },
+   {
+    "file": "12_Visual_Catalog/official_previews/OGA-HORRORMAP_1.jpg",
+    "source": "10_Source_Archives/community/horror-sci-fi-3d-map-kit/sci_maps_2.jpg",
+    "kind": "official preview"
+   }
+  ],
+  "OGA-IMP": [
+   {
+    "file": "12_Visual_Catalog/official_previews/OGA-IMP.jpg",
+    "source": "10_Source_Archives/community/imp-0/Screenshot 2017-07-25 22.55.19.png",
+    "kind": "official preview"
+   },
+   {
+    "file": "12_Visual_Catalog/official_previews/OGA-IMP_1.jpg",
+    "source": "10_Source_Archives/community/imp-0/Screenshot 2017-07-25 22.55.55.png",
+    "kind": "official preview"
+   }
+  ],
+  "OGA-JETTY": [
+   {
+    "file": "12_Visual_Catalog/official_previews/OGA-JETTY.jpg",
+    "source": "10_Source_Archives/community/jetty/jetty.jpg",
+    "kind": "official preview"
+   }
+  ],
+  "OGA-GHOST": [
+   {
+    "file": "12_Visual_Catalog/official_previews/OGA-GHOST.jpg",
+    "source": "10_Source_Archives/community/low-poly-ghost-0/snapshot_230321195317.png",
+    "kind": "official preview"
+   }
+  ],
+  "OGA-HALLOWKIT": [
+   {
+    "file": "12_Visual_Catalog/official_previews/OGA-HALLOWKIT.jpg",
+    "source": "10_Source_Archives/community/low-poly-halloween-kit/example_scene.jpg",
+    "kind": "official preview"
+   },
+   {
+    "file": "12_Visual_Catalog/official_previews/OGA-HALLOWKIT_1.jpg",
+    "source": "10_Source_Archives/community/low-poly-halloween-kit/example_scene_2.jpg",
+    "kind": "official preview"
+   }
+  ],
+  "OGA-WEREWOLF": [
+   {
+    "file": "12_Visual_Catalog/official_previews/OGA-WEREWOLF.jpg",
+    "source": "10_Source_Archives/community/low-poly-werewolf/sem_titulo_0.jpg",
+    "kind": "official preview"
+   }
+  ],
+  "OGA-CITYZOMBIE": [
+   {
+    "file": "12_Visual_Catalog/official_previews/OGA-CITYZOMBIE.jpg",
+    "source": "10_Source_Archives/community/male-city-zombie-ready-for-use-in-game-engines/34343_2.png",
+    "kind": "official preview"
+   }
+  ],
+  "OGA-DOCKS": [
+   {
+    "file": "12_Visual_Catalog/official_previews/OGA-DOCKS.jpg",
+    "source": "10_Source_Archives/community/modular-wooden-docks/godot_v4.2.1-stable_win64_7t2tlu3wxr.png",
+    "kind": "official preview"
+   },
+   {
+    "file": "12_Visual_Catalog/official_previews/OGA-DOCKS_1.jpg",
+    "source": "10_Source_Archives/community/modular-wooden-docks/godot_v4.2.1-stable_win64_kknc0mqbkc.png",
+    "kind": "official preview"
+   }
+  ],
+  "OGA-OCEANTRIO": [
+   {
+    "file": "12_Visual_Catalog/official_previews/OGA-OCEANTRIO.jpg",
+    "source": "10_Source_Archives/community/ocean-trio/LifeBell.png",
+    "kind": "official preview"
+   },
+   {
+    "file": "12_Visual_Catalog/official_previews/OGA-OCEANTRIO_1.jpg",
+    "source": "10_Source_Archives/community/ocean-trio/fish_7.png",
+    "kind": "official preview"
+   }
+  ],
+  "OGA-RESCUEHELI": [
+   {
+    "file": "12_Visual_Catalog/official_previews/OGA-RESCUEHELI.jpg",
+    "source": "10_Source_Archives/community/rescue-helicopter-low-poly/Screenshot_20180310_234401.png",
+    "kind": "official preview"
+   }
+  ],
+  "OGA-HELI": [
+   {
+    "file": "12_Visual_Catalog/official_previews/OGA-HELI.jpg",
+    "source": "10_Source_Archives/community/simple-helicopter/helicopter.png",
+    "kind": "official preview"
+   }
+  ],
+  "OGA-ROWBOAT": [
+   {
+    "file": "12_Visual_Catalog/official_previews/OGA-ROWBOAT.jpg",
+    "source": "10_Source_Archives/community/simple-rowboat/boaticon.png",
+    "kind": "official preview"
+   }
+  ],
+  "OGA-STONECOFFIN": [
+   {
+    "file": "12_Visual_Catalog/official_previews/OGA-STONECOFFIN.jpg",
+    "source": "10_Source_Archives/community/stone-coffin/preview_101.jpg",
+    "kind": "official preview"
+   }
+  ],
+  "QT-UBC": [
+   {
+    "file": "12_Visual_Catalog/official_previews/QT-UBC.jpg",
+    "source": "https://quaternius.com/assets/images/fullres/universalbasecharacters.jpg",
+    "kind": "official preview"
+   }
+  ],
+  "QT-DOWNTOWN": [
+   {
+    "file": "12_Visual_Catalog/official_previews/QT-DOWNTOWN.jpg",
+    "source": "https://quaternius.com/assets/images/fullres/downtowncitymegakit.jpg",
+    "kind": "official preview"
+   }
+  ],
+  "QT-FARMBLD": [
+   {
+    "file": "12_Visual_Catalog/official_previews/QT-FARMBLD.jpg",
+    "source": "https://quaternius.com/assets/images/fullres/farmbuildings.jpg",
+    "kind": "official preview"
+   }
+  ],
+  "KK-ANIMS": [
+   {
+    "file": "12_Visual_Catalog/official_previews/KK-ANIMS.jpg",
+    "source": "https://kaylousberg.com/content/3-game-assets/4-character-animations/character_animations.png",
+    "kind": "official preview"
+   }
+  ],
+  "KK-FOREST": [
+   {
+    "file": "12_Visual_Catalog/official_previews/KK-FOREST.jpg",
+    "source": "https://kaylousberg.com/content/3-game-assets/5-forest-nature-pack/forest_nature_pack.png",
+    "kind": "official preview"
+   }
+  ],
+  "KK-ADVENT": [
+   {
+    "file": "12_Visual_Catalog/official_previews/KK-ADVENT.jpg",
+    "source": "extracted:/kaykit/KayKit-Character-Pack-Adventures-1.0/icon.png",
+    "kind": "official preview"
+   }
+  ],
+  "KK-SKEL": [
+   {
+    "file": "12_Visual_Catalog/official_previews/KK-SKEL.jpg",
+    "source": "extracted:/kaykit/KayKit-Character-Pack-Skeletons-1.0/icon.png",
+    "kind": "official preview"
+   }
+  ],
+  "KK-CITY": [
+   {
+    "file": "12_Visual_Catalog/official_previews/KK-CITY.jpg",
+    "source": "extracted:/kaykit/KayKit-City-Builder-Bits-1.0/icon.png",
+    "kind": "official preview"
+   }
+  ],
+  "KK-DUNGEON": [
+   {
+    "file": "12_Visual_Catalog/official_previews/KK-DUNGEON.jpg",
+    "source": "extracted:/kaykit/KayKit-Dungeon-Remastered-1.0/icon.png",
+    "kind": "official preview"
+   }
+  ],
+  "KK-FURN": [
+   {
+    "file": "12_Visual_Catalog/official_previews/KK-FURN.jpg",
+    "source": "extracted:/kaykit/KayKit-Furniture-Bits-1.0/icon.png",
+    "kind": "official preview"
+   }
+  ],
+  "KK-HALLOW": [
+   {
+    "file": "12_Visual_Catalog/official_previews/KK-HALLOW.jpg",
+    "source": "extracted:/kaykit/KayKit-Halloween-Bits-1.0/icon.png",
+    "kind": "official preview"
+   }
+  ],
+  "KK-RESTO": [
+   {
+    "file": "12_Visual_Catalog/official_previews/KK-RESTO.jpg",
+    "source": "extracted:/kaykit/KayKit-Restaurant-Bits-1.0/icon.png",
+    "kind": "official preview"
+   }
+  ],
+  "GH-SCITIZIA": [
+   {
+    "file": "12_Visual_Catalog/official_previews/GH-SCITIZIA.jpg",
+    "source": "/home/user/ag_work/gh/kayquer__scitizia-pessoas-64/docs/pessoas-low-poly-folha-de-poses.jpg",
+    "kind": "official preview"
+   },
+   {
+    "file": "12_Visual_Catalog/official_previews/GH-SCITIZIA_1.jpg",
+    "source": "/home/user/ag_work/gh/kayquer__scitizia-pessoas-64/docs/pessoas-low-poly-32-bits-mosaico.jpg",
+    "kind": "official preview"
+   }
+  ],
+  "GH-VUENA": [
+   {
+    "file": "12_Visual_Catalog/official_previews/GH-VUENA.jpg",
+    "source": "/home/user/ag_work/gh/Vuena__free-low-poly-characters-cc0/Preview/cover_630x500.png",
+    "kind": "official preview"
+   }
+  ]
+ },
+ "per_asset_by_source": {
+  "github/scitizia-people/modelos/bento.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_bento.jpg",
+  "github/scitizia-people/modelos/bento_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_bento_poses.jpg",
+  "github/scitizia-people/modelos/breno.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_breno.jpg",
+  "github/scitizia-people/modelos/breno_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_breno_poses.jpg",
+  "github/scitizia-people/modelos/caetano.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_caetano.jpg",
+  "github/scitizia-people/modelos/caetano_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_caetano_poses.jpg",
+  "github/scitizia-people/modelos/cardim.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_cardim.jpg",
+  "github/scitizia-people/modelos/cardim_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_cardim_poses.jpg",
+  "github/scitizia-people/modelos/cody.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_cody.jpg",
+  "github/scitizia-people/modelos/cody_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_cody_poses.jpg",
+  "github/scitizia-people/modelos/dito.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_dito.jpg",
+  "github/scitizia-people/modelos/dito_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_dito_poses.jpg",
+  "github/scitizia-people/modelos/fiona.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_fiona.jpg",
+  "github/scitizia-people/modelos/fiona_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_fiona_poses.jpg",
+  "github/scitizia-people/modelos/ines.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_ines.jpg",
+  "github/scitizia-people/modelos/ines_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_ines_poses.jpg",
+  "github/scitizia-people/modelos/lu.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_lu.jpg",
+  "github/scitizia-people/modelos/lu_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_lu_poses.jpg",
+  "github/scitizia-people/modelos/lucia.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_lucia.jpg",
+  "github/scitizia-people/modelos/lucia_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_lucia_poses.jpg",
+  "github/scitizia-people/modelos/marta.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_marta.jpg",
+  "github/scitizia-people/modelos/marta_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_marta_poses.jpg",
+  "github/scitizia-people/modelos/multidao_01.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_multidao_01.jpg",
+  "github/scitizia-people/modelos/multidao_01_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_multidao_01_poses.jpg",
+  "github/scitizia-people/modelos/multidao_02.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_multidao_02.jpg",
+  "github/scitizia-people/modelos/multidao_02_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_multidao_02_poses.jpg",
+  "github/scitizia-people/modelos/multidao_03.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_multidao_03.jpg",
+  "github/scitizia-people/modelos/multidao_03_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_multidao_03_poses.jpg",
+  "github/scitizia-people/modelos/multidao_04.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_multidao_04.jpg",
+  "github/scitizia-people/modelos/multidao_04_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_multidao_04_poses.jpg",
+  "github/scitizia-people/modelos/multidao_05.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_multidao_05.jpg",
+  "github/scitizia-people/modelos/multidao_05_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_multidao_05_poses.jpg",
+  "github/scitizia-people/modelos/multidao_06.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_multidao_06.jpg",
+  "github/scitizia-people/modelos/multidao_06_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_multidao_06_poses.jpg",
+  "github/scitizia-people/modelos/multidao_07.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_multidao_07.jpg",
+  "github/scitizia-people/modelos/multidao_07_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_multidao_07_poses.jpg",
+  "github/scitizia-people/modelos/multidao_08.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_multidao_08.jpg",
+  "github/scitizia-people/modelos/multidao_08_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_multidao_08_poses.jpg",
+  "github/scitizia-people/modelos/multidao_09.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_multidao_09.jpg",
+  "github/scitizia-people/modelos/multidao_09_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_multidao_09_poses.jpg",
+  "github/scitizia-people/modelos/multidao_10.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_multidao_10.jpg",
+  "github/scitizia-people/modelos/multidao_10_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_multidao_10_poses.jpg",
+  "github/scitizia-people/modelos/multidao_11.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_multidao_11.jpg",
+  "github/scitizia-people/modelos/multidao_11_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_multidao_11_poses.jpg",
+  "github/scitizia-people/modelos/multidao_12.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_multidao_12.jpg",
+  "github/scitizia-people/modelos/multidao_12_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_multidao_12_poses.jpg",
+  "github/scitizia-people/modelos/multidao_13.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_multidao_13.jpg",
+  "github/scitizia-people/modelos/multidao_13_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_multidao_13_poses.jpg",
+  "github/scitizia-people/modelos/multidao_14.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_multidao_14.jpg",
+  "github/scitizia-people/modelos/multidao_14_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_multidao_14_poses.jpg",
+  "github/scitizia-people/modelos/multidao_15.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_multidao_15.jpg",
+  "github/scitizia-people/modelos/multidao_15_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_multidao_15_poses.jpg",
+  "github/scitizia-people/modelos/multidao_16.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_multidao_16.jpg",
+  "github/scitizia-people/modelos/multidao_16_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_multidao_16_poses.jpg",
+  "github/scitizia-people/modelos/multidao_17.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_multidao_17.jpg",
+  "github/scitizia-people/modelos/multidao_17_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_multidao_17_poses.jpg",
+  "github/scitizia-people/modelos/multidao_18.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_multidao_18.jpg",
+  "github/scitizia-people/modelos/multidao_18_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_multidao_18_poses.jpg",
+  "github/scitizia-people/modelos/multidao_19.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_multidao_19.jpg",
+  "github/scitizia-people/modelos/multidao_19_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_multidao_19_poses.jpg",
+  "github/scitizia-people/modelos/multidao_20.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_multidao_20.jpg",
+  "github/scitizia-people/modelos/multidao_20_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_multidao_20_poses.jpg",
+  "github/scitizia-people/modelos/multidao_21.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_multidao_21.jpg",
+  "github/scitizia-people/modelos/multidao_21_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_multidao_21_poses.jpg",
+  "github/scitizia-people/modelos/multidao_22.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_multidao_22.jpg",
+  "github/scitizia-people/modelos/multidao_22_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_multidao_22_poses.jpg",
+  "github/scitizia-people/modelos/multidao_23.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_multidao_23.jpg",
+  "github/scitizia-people/modelos/multidao_23_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_multidao_23_poses.jpg",
+  "github/scitizia-people/modelos/multidao_24.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_multidao_24.jpg",
+  "github/scitizia-people/modelos/multidao_24_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_multidao_24_poses.jpg",
+  "github/scitizia-people/modelos/piloto_h01.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_piloto_h01.jpg",
+  "github/scitizia-people/modelos/piloto_h01_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_piloto_h01_poses.jpg",
+  "github/scitizia-people/modelos/piloto_h02.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_piloto_h02.jpg",
+  "github/scitizia-people/modelos/piloto_h02_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_piloto_h02_poses.jpg",
+  "github/scitizia-people/modelos/piloto_h03.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_piloto_h03.jpg",
+  "github/scitizia-people/modelos/piloto_h03_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_piloto_h03_poses.jpg",
+  "github/scitizia-people/modelos/piloto_h04.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_piloto_h04.jpg",
+  "github/scitizia-people/modelos/piloto_h04_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_piloto_h04_poses.jpg",
+  "github/scitizia-people/modelos/piloto_h05.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_piloto_h05.jpg",
+  "github/scitizia-people/modelos/piloto_h05_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_piloto_h05_poses.jpg",
+  "github/scitizia-people/modelos/piloto_h06.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_piloto_h06.jpg",
+  "github/scitizia-people/modelos/piloto_h06_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_piloto_h06_poses.jpg",
+  "github/scitizia-people/modelos/piloto_h07.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_piloto_h07.jpg",
+  "github/scitizia-people/modelos/piloto_h07_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_piloto_h07_poses.jpg",
+  "github/scitizia-people/modelos/piloto_h08.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_piloto_h08.jpg",
+  "github/scitizia-people/modelos/piloto_h08_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_piloto_h08_poses.jpg",
+  "github/scitizia-people/modelos/piloto_m01.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_piloto_m01.jpg",
+  "github/scitizia-people/modelos/piloto_m01_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_piloto_m01_poses.jpg",
+  "github/scitizia-people/modelos/piloto_m02.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_piloto_m02.jpg",
+  "github/scitizia-people/modelos/piloto_m02_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_piloto_m02_poses.jpg",
+  "github/scitizia-people/modelos/piloto_m03.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_piloto_m03.jpg",
+  "github/scitizia-people/modelos/piloto_m03_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_piloto_m03_poses.jpg",
+  "github/scitizia-people/modelos/piloto_m04.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_piloto_m04.jpg",
+  "github/scitizia-people/modelos/piloto_m04_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_piloto_m04_poses.jpg",
+  "github/scitizia-people/modelos/piloto_m05.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_piloto_m05.jpg",
+  "github/scitizia-people/modelos/piloto_m05_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_piloto_m05_poses.jpg",
+  "github/scitizia-people/modelos/piloto_m06.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_piloto_m06.jpg",
+  "github/scitizia-people/modelos/piloto_m06_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_piloto_m06_poses.jpg",
+  "github/scitizia-people/modelos/piloto_m07.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_piloto_m07.jpg",
+  "github/scitizia-people/modelos/piloto_m07_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_piloto_m07_poses.jpg",
+  "github/scitizia-people/modelos/piloto_m08.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_piloto_m08.jpg",
+  "github/scitizia-people/modelos/piloto_m08_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_piloto_m08_poses.jpg",
+  "github/scitizia-people/modelos/rafa.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_rafa.jpg",
+  "github/scitizia-people/modelos/rafa_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_rafa_poses.jpg",
+  "github/scitizia-people/modelos/rosa.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_rosa.jpg",
+  "github/scitizia-people/modelos/rosa_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_rosa_poses.jpg",
+  "github/scitizia-people/modelos/tiao.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_tiao.jpg",
+  "github/scitizia-people/modelos/tiao_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_tiao_poses.jpg",
+  "github/scitizia-people/modelos/zelia.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_zelia.jpg",
+  "github/scitizia-people/modelos/zelia_poses.glb": "12_Visual_Catalog/official_previews/per_asset/GH-SCITIZIA_zelia_poses.jpg",
+  "github/vuena-blocky-characters/GLB/blocky_01_hero.glb": "12_Visual_Catalog/official_previews/per_asset/GH-VUENA_blocky_01_hero.jpg",
+  "github/vuena-blocky-characters/GLB/blocky_03_knight.glb": "12_Visual_Catalog/official_previews/per_asset/GH-VUENA_blocky_03_knight.jpg",
+  "github/vuena-blocky-characters/GLB/blocky_05_wizard.glb": "12_Visual_Catalog/official_previews/per_asset/GH-VUENA_blocky_05_wizard.jpg",
+  "github/vuena-blocky-characters/GLB/blocky_06_pirate.glb": "12_Visual_Catalog/official_previews/per_asset/GH-VUENA_blocky_06_pirate.jpg",
+  "github/vuena-blocky-characters/GLB/blocky_07_astronaut.glb": "12_Visual_Catalog/official_previews/per_asset/GH-VUENA_blocky_07_astronaut.jpg",
+  "github/vuena-blocky-characters/GLB/blocky_08_robot.glb": "12_Visual_Catalog/official_previews/per_asset/GH-VUENA_blocky_08_robot.jpg",
+  "github/vuena-blocky-characters/GLB/blocky_09_zombie.glb": "12_Visual_Catalog/official_previews/per_asset/GH-VUENA_blocky_09_zombie.jpg",
+  "github/vuena-blocky-characters/GLB/blocky_19_princess.glb": "12_Visual_Catalog/official_previews/per_asset/GH-VUENA_blocky_19_princess.jpg",
+  "polyhaven/models/Camera_01/Camera_01_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_Camera_01.jpg",
+  "polyhaven/models/GothicBed_01/GothicBed_01_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_GothicBed_01.jpg",
+  "polyhaven/models/GothicCabinet_01/GothicCabinet_01_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_GothicCabinet_01.jpg",
+  "polyhaven/models/Lantern_01/Lantern_01_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_Lantern_01.jpg",
+  "polyhaven/models/Rockingchair_01/Rockingchair_01_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_Rockingchair_01.jpg",
+  "polyhaven/models/SchoolChair_01/SchoolChair_01_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_SchoolChair_01.jpg",
+  "polyhaven/models/SchoolDesk_01/SchoolDesk_01_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_SchoolDesk_01.jpg",
+  "polyhaven/models/Television_01/Television_01_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_Television_01.jpg",
+  "polyhaven/models/alarm_clock_01/alarm_clock_01_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_alarm_clock_01.jpg",
+  "polyhaven/models/binder_notebook/binder_notebook_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_binder_notebook.jpg",
+  "polyhaven/models/binoculars/binoculars_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_binoculars.jpg",
+  "polyhaven/models/bolt_cutters_01/bolt_cutters_01_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_bolt_cutters_01.jpg",
+  "polyhaven/models/boombox/boombox_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_boombox.jpg",
+  "polyhaven/models/brass_candleholders/brass_candleholders_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_brass_candleholders.jpg",
+  "polyhaven/models/bunsen_burner/bunsen_burner_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_bunsen_burner.jpg",
+  "polyhaven/models/caged_hanging_light/caged_hanging_light_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_caged_hanging_light.jpg",
+  "polyhaven/models/can_rusted/can_rusted_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_can_rusted.jpg",
+  "polyhaven/models/cardboard_box_01/cardboard_box_01_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_cardboard_box_01.jpg",
+  "polyhaven/models/cassette_player/cassette_player_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_cassette_player.jpg",
+  "polyhaven/models/chemistry_set/chemistry_set_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_chemistry_set.jpg",
+  "polyhaven/models/classic_laptop/classic_laptop_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_classic_laptop.jpg",
+  "polyhaven/models/clipboard/clipboard_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_clipboard.jpg",
+  "polyhaven/models/covered_car/covered_car_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_covered_car.jpg",
+  "polyhaven/models/crowbar_01/crowbar_01_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_crowbar_01.jpg",
+  "polyhaven/models/dead_tree_trunk/dead_tree_trunk_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_dead_tree_trunk.jpg",
+  "polyhaven/models/dead_tree_trunk_02/dead_tree_trunk_02_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_dead_tree_trunk_02.jpg",
+  "polyhaven/models/digital_wrist_watch/digital_wrist_watch_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_digital_wrist_watch.jpg",
+  "polyhaven/models/fire_hydrant/fire_hydrant_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_fire_hydrant.jpg",
+  "polyhaven/models/fishermans_hat/fishermans_hat_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_fishermans_hat.jpg",
+  "polyhaven/models/hanging_industrial_lamp/hanging_industrial_lamp_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_hanging_industrial_lamp.jpg",
+  "polyhaven/models/industrial_microscope/industrial_microscope_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_industrial_microscope.jpg",
+  "polyhaven/models/life_jacket/life_jacket_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_life_jacket.jpg",
+  "polyhaven/models/lifebuoy/lifebuoy_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_lifebuoy.jpg",
+  "polyhaven/models/lightbulb_01/lightbulb_01_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_lightbulb_01.jpg",
+  "polyhaven/models/magnifying_glass_01/magnifying_glass_01_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_magnifying_glass_01.jpg",
+  "polyhaven/models/mantel_clock_01/mantel_clock_01_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_mantel_clock_01.jpg",
+  "polyhaven/models/medical_box/medical_box_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_medical_box.jpg",
+  "polyhaven/models/metal_detector/metal_detector_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_metal_detector.jpg",
+  "polyhaven/models/metal_office_desk/metal_office_desk_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_metal_office_desk.jpg",
+  "polyhaven/models/metal_trash_can/metal_trash_can_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_metal_trash_can.jpg",
+  "polyhaven/models/modular_electricity_poles/modular_electricity_poles_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_modular_electricity_poles.jpg",
+  "polyhaven/models/modular_wooden_pier/modular_wooden_pier_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_modular_wooden_pier.jpg",
+  "polyhaven/models/mounted_fluorescent_lights/mounted_fluorescent_lights_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_mounted_fluorescent_lights.jpg",
+  "polyhaven/models/ocean_buoy/ocean_buoy_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_ocean_buoy.jpg",
+  "polyhaven/models/office_notepads/office_notepads_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_office_notepads.jpg",
+  "polyhaven/models/old_bed_frame/old_bed_frame_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_old_bed_frame.jpg",
+  "polyhaven/models/old_gas_mask/old_gas_mask_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_old_gas_mask.jpg",
+  "polyhaven/models/old_tyre/old_tyre_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_old_tyre.jpg",
+  "polyhaven/models/ornate_mirror_01/ornate_mirror_01_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_ornate_mirror_01.jpg",
+  "polyhaven/models/pine_roots/pine_roots_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_pine_roots.jpg",
+  "polyhaven/models/portable_cassette_player/portable_cassette_player_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_portable_cassette_player.jpg",
+  "polyhaven/models/portable_searchlight/portable_searchlight_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_portable_searchlight.jpg",
+  "polyhaven/models/power_box_01/power_box_01_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_power_box_01.jpg",
+  "polyhaven/models/pull_chain_light_socket/pull_chain_light_socket_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_pull_chain_light_socket.jpg",
+  "polyhaven/models/root_cluster_01/root_cluster_01_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_root_cluster_01.jpg",
+  "polyhaven/models/root_cluster_02/root_cluster_02_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_root_cluster_02.jpg",
+  "polyhaven/models/round_spectacles/round_spectacles_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_round_spectacles.jpg",
+  "polyhaven/models/rubber_boots/rubber_boots_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_rubber_boots.jpg",
+  "polyhaven/models/rubber_duck_toy/rubber_duck_toy_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_rubber_duck_toy.jpg",
+  "polyhaven/models/rusted_spade_01/rusted_spade_01_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_rusted_spade_01.jpg",
+  "polyhaven/models/security_camera_01/security_camera_01_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_security_camera_01.jpg",
+  "polyhaven/models/security_camera_02/security_camera_02_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_security_camera_02.jpg",
+  "polyhaven/models/signal_flashlight/signal_flashlight_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_signal_flashlight.jpg",
+  "polyhaven/models/small_plastic_torch/small_plastic_torch_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_small_plastic_torch.jpg",
+  "polyhaven/models/standing_chalkboard_01/standing_chalkboard_01_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_standing_chalkboard_01.jpg",
+  "polyhaven/models/street_lamp_01/street_lamp_01_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_street_lamp_01.jpg",
+  "polyhaven/models/street_lamp_02/street_lamp_02_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_street_lamp_02.jpg",
+  "polyhaven/models/trashbag/trashbag_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_trashbag.jpg",
+  "polyhaven/models/tree_stump_01/tree_stump_01_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_tree_stump_01.jpg",
+  "polyhaven/models/utility_box_01/utility_box_01_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_utility_box_01.jpg",
+  "polyhaven/models/vintage_flashlight/vintage_flashlight_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_vintage_flashlight.jpg",
+  "polyhaven/models/vintage_grandfather_clock_01/vintage_grandfather_clock_01_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_vintage_grandfather_clock_01.jpg",
+  "polyhaven/models/vintage_microscope/vintage_microscope_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_vintage_microscope.jpg",
+  "polyhaven/models/vintage_oil_lamp/vintage_oil_lamp_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_vintage_oil_lamp.jpg",
+  "polyhaven/models/vintage_pocket_watch/vintage_pocket_watch_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_vintage_pocket_watch.jpg",
+  "polyhaven/models/vintage_radio_transceiver/vintage_radio_transceiver_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_vintage_radio_transceiver.jpg",
+  "polyhaven/models/vintage_suitcase/vintage_suitcase_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_vintage_suitcase.jpg",
+  "polyhaven/models/vintage_telephone_wall_clock/vintage_telephone_wall_clock_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_vintage_telephone_wall_clock.jpg",
+  "polyhaven/models/vintage_video_camera/vintage_video_camera_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_vintage_video_camera.jpg",
+  "polyhaven/models/wall_clock/wall_clock_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_wall_clock.jpg",
+  "polyhaven/models/water_manhole_cover/water_manhole_cover_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_water_manhole_cover.jpg",
+  "polyhaven/models/wheelchair_01/wheelchair_01_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_wheelchair_01.jpg",
+  "polyhaven/models/wooden_candlestick/wooden_candlestick_1k.gltf": "12_Visual_Catalog/official_previews/per_asset/PH_wooden_candlestick.jpg"
+ }
+}

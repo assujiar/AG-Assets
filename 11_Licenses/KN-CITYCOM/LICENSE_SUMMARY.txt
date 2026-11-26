@@ -1,0 +1,9 @@
+Pack: City Kit (Commercial) 2.1
+Creator: Kenney (kenney.nl)
+License: CC0 1.0 Universal (Public Domain Dedication)
+Attribution required: no (optional credit appreciated)
+Official source: https://kenney.nl/assets/city-kit-commercial
+Acquired from: https://opengameart.org/content/city-kit-commercial
+Method: OpenGameArt official upload (direct file download)
+Date: 2026-11-26
+Bundled license file(s) copied here: License.txt

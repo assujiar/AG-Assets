@@ -1,0 +1,9 @@
+Pack: Farm Buildings
+Creator: Quaternius
+License: CC0 1.0 Universal (Public Domain Dedication)
+Attribution required: no (optional credit appreciated)
+Official source: https://quaternius.com/packs/farmbuildings.html
+Acquired from: https://quaternius.itch.io/lowpoly-farm-buildings
+Method: Official itch.io free download (no-payment option)
+Date: 2026-11-26
+Bundled license file(s) copied here: none in archive - license taken from the source page (see AssetLicenses.md)

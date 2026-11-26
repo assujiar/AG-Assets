@@ -1,0 +1,9 @@
+Pack: DreamKit Character Pack: Monsters (FREE version)
+Creator: DreamerH (DreamKit)
+License: CC0 1.0 Universal (Public Domain Dedication) (stated in itch.io description: free for personal and commercial use, no attribution required)
+Attribution required: no (optional credit appreciated)
+Official source: https://dreamerh.itch.io/dreamkit-character-pack-monsters
+Acquired from: https://dreamerh.itch.io/dreamkit-character-pack-monsters
+Method: Official itch.io free download (no-payment option)
+Date: 2026-11-26
+Bundled license file(s) copied here: none in archive - license taken from the source page (see AssetLicenses.md)

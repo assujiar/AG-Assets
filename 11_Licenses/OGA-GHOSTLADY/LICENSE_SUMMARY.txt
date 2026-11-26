@@ -1,0 +1,9 @@
+Pack: Ghost lady model (UNTEXTURED)
+Creator: kabrolkin (OpenGameArt user)
+License: CC BY 4.0
+Attribution required: YES
+Official source: https://opengameart.org/content/ghost-lady-model-untextured
+Acquired from: https://opengameart.org/content/ghost-lady-model-untextured
+Method: OpenGameArt upload (direct file download)
+Date: 2026-11-26
+Bundled license file(s) copied here: none in archive - license taken from the source page (see AssetLicenses.md)

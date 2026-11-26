@@ -1,0 +1,9 @@
+Pack: Universal Base Characters [Standard]
+Creator: Quaternius
+License: CC0 1.0 Universal (Public Domain Dedication)
+Attribution required: no (optional credit appreciated)
+Official source: https://quaternius.com/packs/universalbasecharacters.html
+Acquired from: https://quaternius.itch.io/universal-base-characters
+Method: Official itch.io free download (no-payment option)
+Date: 2026-11-26
+Bundled license file(s) copied here: License_Standard.txt

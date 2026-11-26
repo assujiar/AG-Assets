@@ -1,0 +1,9 @@
+Pack: Dungeon Remastered 1.0
+Creator: Kay Lousberg (KayKit)
+License: CC0 1.0 Universal (Public Domain Dedication)
+Attribution required: no (optional credit appreciated)
+Official source: https://kaylousberg.com/game-assets
+Acquired from: https://github.com/KayKit-Game-Assets/KayKit-Dungeon-Remastered-1.0 @ b0ca9bd96a8072ab36a3a5464f00ed1e06a16d07
+Method: Official GitHub repository (git clone --depth 1)
+Date: 2026-11-26
+Bundled license file(s) copied here: LICENSE.txt, LICENSE.txt

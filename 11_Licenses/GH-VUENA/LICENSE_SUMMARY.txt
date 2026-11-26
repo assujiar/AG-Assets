@@ -1,0 +1,9 @@
+Pack: Free Low-Poly Characters (8 blocky rigged characters)
+Creator: Vuena (GitHub/itch.io)
+License: CC0 1.0 Universal (Public Domain Dedication)
+Attribution required: no (optional credit appreciated)
+Official source: https://github.com/Vuena/free-low-poly-characters-cc0
+Acquired from: https://github.com/Vuena/free-low-poly-characters-cc0 @ 860f5a0c1c8da4341dd019337f79d9ce2761d1ee
+Method: Official GitHub repository (git clone --depth 1)
+Date: 2026-11-26
+Bundled license file(s) copied here: LICENSE, LICENSE.txt

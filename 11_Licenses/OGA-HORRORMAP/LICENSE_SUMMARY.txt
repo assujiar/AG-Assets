@@ -1,0 +1,9 @@
+Pack: Horror sci-fi 3d map kit
+Creator: dogchicken (OpenGameArt user)
+License: CC BY 3.0
+Attribution required: YES
+Official source: https://opengameart.org/content/horror-sci-fi-3d-map-kit
+Acquired from: https://opengameart.org/content/horror-sci-fi-3d-map-kit
+Method: OpenGameArt upload (direct file download)
+Date: 2026-11-26
+Bundled license file(s) copied here: none in archive - license taken from the source page (see AssetLicenses.md)

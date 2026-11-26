@@ -1,0 +1,9 @@
+Pack: Simple Rowboat
+Creator: willy56 (OpenGameArt user)
+License: CC BY 4.0
+Attribution required: YES
+Official source: https://opengameart.org/content/simple-rowboat
+Acquired from: https://opengameart.org/content/simple-rowboat
+Method: OpenGameArt upload (direct file download)
+Date: 2026-11-26
+Bundled license file(s) copied here: none in archive - license taken from the source page (see AssetLicenses.md)

@@ -1,0 +1,9 @@
+Pack: Halloween Bits 1.0
+Creator: Kay Lousberg (KayKit)
+License: CC0 1.0 Universal (Public Domain Dedication)
+Attribution required: no (optional credit appreciated)
+Official source: https://kaylousberg.com/game-assets
+Acquired from: https://github.com/KayKit-Game-Assets/KayKit-Halloween-Bits-1.0 @ 6dc69bf6b2fa766a985754f35ec6a0324090e6c6
+Method: Official GitHub repository (git clone --depth 1)
+Date: 2026-11-26
+Bundled license file(s) copied here: LICENSE.txt, LICENSE.txt

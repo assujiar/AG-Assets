@@ -1,0 +1,9 @@
+Pack: Survival Pack (Sep 2020)
+Creator: Quaternius
+License: CC0 1.0 Universal (Public Domain Dedication)
+Attribution required: no (optional credit appreciated)
+Official source: https://quaternius.com/packs/survival.html
+Acquired from: https://opengameart.org/content/lowpoly-survival-pack
+Method: OpenGameArt official upload (direct file download)
+Date: 2026-11-26
+Bundled license file(s) copied here: License.txt

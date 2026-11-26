@@ -1,0 +1,9 @@
+Pack: Ocean Trio
+Creator: fleurman (OpenGameArt user)
+License: CC0 1.0 Universal (Public Domain Dedication)
+Attribution required: no (optional credit appreciated)
+Official source: https://opengameart.org/content/ocean-trio
+Acquired from: https://opengameart.org/content/ocean-trio
+Method: OpenGameArt upload (direct file download)
+Date: 2026-11-26
+Bundled license file(s) copied here: none in archive - license taken from the source page (see AssetLicenses.md)

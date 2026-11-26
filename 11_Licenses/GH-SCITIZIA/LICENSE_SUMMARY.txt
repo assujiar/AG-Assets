@@ -1,0 +1,9 @@
+Pack: Scitizia: People (55 low-poly characters)
+Creator: kayquer (GitHub) / kkyqr (itch.io)
+License: CC0 1.0 Universal (Public Domain Dedication)
+Attribution required: no (optional credit appreciated)
+Official source: https://github.com/kayquer/scitizia-pessoas-64
+Acquired from: https://github.com/kayquer/scitizia-pessoas-64 @ a6e3d4f14851a95c4df51ba508bd9efd7275688d
+Method: Official GitHub repository (git clone --depth 1)
+Date: 2026-11-26
+Bundled license file(s) copied here: LICENSE

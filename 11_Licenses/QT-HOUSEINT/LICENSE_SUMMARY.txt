@@ -1,0 +1,9 @@
+Pack: Ultimate House Interior Pack (Jun 2020)
+Creator: Quaternius
+License: CC0 1.0 Universal (Public Domain Dedication)
+Attribution required: no (optional credit appreciated)
+Official source: https://quaternius.com/packs/ultimatehomeinterior.html
+Acquired from: https://opengameart.org/content/lowpoly-house-interior-pack
+Method: OpenGameArt official upload (direct file download)
+Date: 2026-11-26
+Bundled license file(s) copied here: none in archive - license taken from the source page (see AssetLicenses.md)

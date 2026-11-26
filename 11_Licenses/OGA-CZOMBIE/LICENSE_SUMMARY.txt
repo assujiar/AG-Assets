@@ -1,0 +1,9 @@
+Pack: Cartoon Zombie Rigged
+Creator: vinrax (OpenGameArt user)
+License: CC BY 3.0
+Attribution required: YES
+Official source: https://opengameart.org/content/cartoon-zombie-rigged
+Acquired from: https://opengameart.org/content/cartoon-zombie-rigged
+Method: OpenGameArt upload (direct file download)
+Date: 2026-11-26
+Bundled license file(s) copied here: none in archive - license taken from the source page (see AssetLicenses.md)

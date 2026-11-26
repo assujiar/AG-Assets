@@ -1,0 +1,9 @@
+Pack: Poly Haven models (curated)
+Creator: Poly Haven contributors
+License: CC0 1.0 Universal (Public Domain Dedication)
+Attribution required: no (optional credit appreciated)
+Official source: https://polyhaven.com/models
+Acquired from: https://api.polyhaven.com (glTF 1k files)
+Method: Official Poly Haven public API + dl.polyhaven.org
+Date: 2026-11-26
+Bundled license file(s) copied here: none in archive - license taken from the source page (see AssetLicenses.md)

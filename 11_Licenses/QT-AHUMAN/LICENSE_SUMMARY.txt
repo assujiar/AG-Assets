@@ -1,0 +1,9 @@
+Pack: Animated Human
+Creator: Quaternius
+License: CC0 1.0 Universal (Public Domain Dedication)
+Attribution required: no (optional credit appreciated)
+Official source: https://quaternius.com/packs/animatedman.html
+Acquired from: https://opengameart.org/content/animated-human-low-poly
+Method: OpenGameArt official upload (direct file download)
+Date: 2026-11-26
+Bundled license file(s) copied here: License.txt
